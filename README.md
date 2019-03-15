@@ -26,7 +26,7 @@ pip3 install pafy<br>
 pip3 install wikipedia <br> 
 pip3 install tweepy<br> 
 pip3 install youtube_dl<br> 
-git clone https://github.com/dhenza1415/SBSILENT<br> 
+git clone https://github.com/zbkngar/zabaku<br> 
 ls<br> 
 cd SBSILENT<br> 
 ls<br> 
